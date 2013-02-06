@@ -25,6 +25,7 @@
 @media screen and (max-width: 650px) {
 	#header {
 	    height: auto;
+	    margin-bottom: 4%;
 	}
 	
 	#searchform {
@@ -57,6 +58,12 @@
 	    width: 100%;
 	    float: none;
 	    margin: 0;
+	}
+	
+	#sidebar-left {
+		width: 100%;
+		float: none;
+		margin: 0;
 	}
 }
 
